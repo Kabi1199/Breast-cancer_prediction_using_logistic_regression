@@ -1,4 +1,4 @@
-# Breast-cancer_prediction_using_logistic_regression
+# Breast-cancer_detection_using_logistic_regression
 
 🧪 Breast Cancer Detection with Logistic Regression
 
